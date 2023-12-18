@@ -1,0 +1,41 @@
+body {
+    background-color: #fff5e7;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont,'Roboto', sans-serif;
+    color: #25265e;
+}
+h1 {
+    background-color: #ffecd7;
+}
+#myname {
+    color: #ff8b6c;
+    font-size: 30px;
+    font-family: 'Archivo', sans-serif;
+}
+tr {
+    background-color: #ffecd7;
+}
+.Skills-table {
+    border-collapse: collapse;
+    width: 500px;
+}
+.Skills-table tr {
+    height: 50px;
+    color: rgba(37, 38, 94, .87);
+    font-size: 18px;
+}
+.Skills-table td {
+    border: 1px solid #25265e;
+}
+a {
+    text-decoration: none;
+}
+img {
+    width: 600px;
+    height: 300px;
+}
+form {
+    border: 2px solid slateblue;
+    width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+}
